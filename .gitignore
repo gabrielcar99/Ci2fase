@@ -1,0 +1,13 @@
+# Simulação / compilação Verilog
+*.vvp
+*.vcd
+
+# Python
+__pycache__/
+*.pyc
+
+# Materiais de referência locais (não versionados)
+*.pdf
+*.png
+tANS-master-exemploC/
+tANS_py-main/
